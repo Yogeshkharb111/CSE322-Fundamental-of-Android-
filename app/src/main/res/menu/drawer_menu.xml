@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_menu_24"
+        android:title="Menu" />
+    <item android:title="Complaint"
+        android:icon="@drawable/complaint_icon"/>
+    <item android:title="Term and Conditions"
+        android:icon="@drawable/t_and_c"/>
+    <item
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="Feedback" />
+    <item
+        android:icon="@android:drawable/stat_sys_phone_call"
+        android:title="Contact us" />
+    <item
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Share" />
+</menu>
